@@ -3,3 +3,7 @@ GIT
 <!-- Comandos de git -->
 git init                  inicia el proyecto en GIT
 git status                seguimiento de elementos en la carpeta
+git add                   agrega elementos a GIT
+git commit                aqui se guarda un status
+git checkout -- nombre_archivo      vuelve al estado anterior
+git diff nombre_archivo             veo los cambios efectuados
