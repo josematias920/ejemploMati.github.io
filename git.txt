@@ -14,3 +14,6 @@ git diff nombre_archivo             veo los cambios efectuados
 
 git branch                agrega raices y copias del codigo
 git checkout (tipo de branch)
+
+
+esto ultimo es slamente una prueba
