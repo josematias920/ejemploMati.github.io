@@ -4,6 +4,13 @@ GIT
 git init                  inicia el proyecto en GIT
 git status                seguimiento de elementos en la carpeta
 git add                   agrega elementos a GIT
+git add .                 agrega todo
 git commit                aqui se guarda un status
+:wq           sale de git commit
+git commit -m "texto"     es para evitar el terminal alterno
 git checkout -- nombre_archivo      vuelve al estado anterior
 git diff nombre_archivo             veo los cambios efectuados
+.gitignore                           archivo para ignorar elementos.
+
+git branch                agrega raices y copias del codigo
+git checkout (tipo de branch)
