@@ -1,0 +1,50 @@
+<p>       parrafo
+<strong>  negrita
+<br>      salto de linea
+<h1-6>    encabezado para subseccion tamaños entre 1-6
+<ul>      lista de elementos, el orden no importante
+<ol>      lista de elementos donde el orden si importante
+<li>      elemento de una lista
+<em>      enfatiza con cursiva
+<!-- -->  comentario
+
+<!-- elementos en una tabla-->
+<tr>      fila de una tabla
+<td>      datos de la fila de la tabla
+<colspan> ampliar columna
+<rowspan>  ampliar fila
+
+<a>    a enlaza una referencia a un elemento
+<!--atributos de a-->
+href      referencia a un elemento con un directorio
+id        genera un id unico
+src       para entregar un directorio
+alt       es lo alternativo que se muestra de no encontrar src
+
+
+<!-- Formularios-->
+<form>    contiene todos los elementos htm de un Formulario
+action    indica a que url se enviara la informacion
+metod     indica si la peticion sera GET o POS
+<input>   permite introducir texto
+type      es un elemento obligatorio en el que se señala el tipo de texto que se espera obtener en input
+id        es obligatorio si en label hay un atributo for, este ocupa un id de la pagina
+name      opcional, nombre asignado a la peticion HTTP
+value     opcional, sera el valor de la peticion HTTP cuando sea enviada
+required  hace que el campo siempre este lleno
+readonly  solo lectura
+pleaceholder  texto de ayuda
+value     valor por defecto en el campo
+<select>  genera una lista desplegable
+<option>  opciones que estaran en select
+<textarea>  genera el texto para descripciones
+<label>   etiquetas de texto para formulario
+for       tiene la misma etiqueta del id de input, select o textarea
+<button>    genera un boton
+type      comportamiento del boton, este puede ser submit, reset, button
+
+
+<!-- Separadores -->
+<hr>  horizontal raw, es una linea horizontal
+&lt;       <
+&gt;       >

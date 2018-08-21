@@ -1,0 +1,5 @@
+GIT
+
+<!-- Comandos de git -->
+git init                  inicia el proyecto en GIT
+git status                seguimiento de elementos en la carpeta
