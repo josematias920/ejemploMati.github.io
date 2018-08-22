@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hola que tal</title>
+  </head>
+  <body>
+    <form class="" action="index.html" method="get">
+        <label for="to">Para:</label>
+        <input id="to" type="email" placeholder="@correo.com" required>
+        <label for="topic">Tematica:</label>
+        <select id=topic name="topic">
+          <option>--Elija una opcion--</option>
+          <option value="proposal">Propuesta</option>
+          <option value="report">Reporte</option>
+          <option value="other">Otro</option>
+        </select>
+          <br><br>
+          <label for="subject">Asunto:</label>
+          <input id="subject" type="text" name="subject" placeholder="aqui va el asunto" readonly>
+        <br>
+        <label for="cuerpo">Mensaje:</label>
+        <br>
+        <textarea id="cuerpo" name="Mensaje" rows="8" cols="80"></textarea>
+
+      <button type="submit" name="button">Send</button>
+    </form>
+
+  </body>
+</html>

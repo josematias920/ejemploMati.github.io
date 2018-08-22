@@ -48,3 +48,5 @@ type      comportamiento del boton, este puede ser submit, reset, button
 <hr>  horizontal raw, es una linea horizontal
 &lt;       <
 &gt;       >
+
+<link>  es para agregar los archivos css al archivo html

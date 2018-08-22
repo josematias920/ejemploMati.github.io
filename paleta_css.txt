@@ -1,0 +1,1 @@
+elemento {color: }          deja a todos los elementos del color indicado
