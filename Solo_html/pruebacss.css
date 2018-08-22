@@ -1,0 +1,36 @@
+body
+{
+    text-align: justify;
+    color: #000;
+    background:lightgrey;
+
+}
+
+.ttt
+{
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+
+    color: lightblue;
+    border: 5px solid grey;
+    background: rgba(143, 18, 87, .5);
+}
+
+.menu li
+{
+    list-style: none;
+}
+
+.T1
+{
+    color: rgb(190, 24, 87);
+}
+.T2
+{
+    color: rgb(72, 66, 138);
+}
+
+
+
+/*comentario!!!!*/
